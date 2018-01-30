@@ -1,4 +1,4 @@
-/* ==============================================
+/* ===============================================
 # Name        : wdbloog 
 # Version     : 9.0
 # Environment : Blogger
@@ -7,7 +7,7 @@
 # Created by  : Abdo Hegazy
 # Updated     : 01,12,2017
 # URL         : https://khamsat.com/user/abdo-abd-alrazzaq
-# =============================================== */
+# ================================================ */
 
 <Variable name="bg.color" description="لون الخلفية" type="background"
 color="#fff" default="$(color) none repeat scroll top left" value="$(color) none repeat scroll top left"/>
